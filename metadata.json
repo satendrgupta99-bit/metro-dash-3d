@@ -1,0 +1,6 @@
+{
+  "name": "Metro Dash: 3D Subway Runner",
+  "description": "High-octane 3D endless runner through realistic city landscapes with procedural tracks, custom characters, weekly challenges, global leaderboards, and offline cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
